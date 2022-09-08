@@ -1,9 +1,9 @@
 import React from 'react';
 import Grow from '@material-ui/core/Grow';
 import TextField from '@material-ui/core/TextField';
-import SearchIcon from '@material-ui/icons/Search';
+import SearchIcon from '../icons/Search';
 import IconButton from '@material-ui/core/IconButton';
-import ClearIcon from '@material-ui/icons/Clear';
+import ClearIcon from '../icons/Clear';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles(

@@ -1,6 +1,6 @@
 import Button from '@material-ui/core/Button';
 import clsx from 'clsx';
-import HelpIcon from '@material-ui/icons/Help';
+import HelpIcon from '../icons/Help';
 import MuiTooltip from '@material-ui/core/Tooltip';
 import PropTypes from 'prop-types';
 import React, { useState } from 'react';
